@@ -18,6 +18,7 @@ http://www.ubik.tk/
 # Ubik Code API
 
 ![exemple](https://user-images.githubusercontent.com/48599437/103389670-9073cc00-4b10-11eb-9e39-27760e211261.png)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FAlan-Kubiak-Zero-One%2FThe-Ubik-Code.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FAlan-Kubiak-Zero-One%2FThe-Ubik-Code?ref=badge_shield)
 
 You can use your Ubik Code code wherever you want thanks to its API, you can download the source code of an example of using the Ubik Code API here:
 
@@ -40,3 +41,7 @@ You can create executables of your projects in Ubik Code.
 # Ubik Code Virtual Machine
 
 ![UbikVM2](https://user-images.githubusercontent.com/48599437/104618547-23724180-568d-11eb-9086-c28c7e4de173.png)
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FAlan-Kubiak-Zero-One%2FThe-Ubik-Code.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FAlan-Kubiak-Zero-One%2FThe-Ubik-Code?ref=badge_large)
