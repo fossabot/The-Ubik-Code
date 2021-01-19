@@ -12,6 +12,7 @@ http://www.ubik.tk/
 ![host](https://img.shields.io/website?down_color=red&down_message=offline&up_color=blue&up_message=online&url=http%3A%2F%2Fubik.tk%2F)
 ![stars](https://img.shields.io/github/stars/Alan-Kubiak-Zero-One/The-Ubik-Code?style=social)
 ![fork](https://img.shields.io/github/forks/Alan-Kubiak-Zero-One/The-Ubik-Code?style=social)
+![mb](https://img.shields.io/github/repo-size/Alan-Kubiak-Zero-One/The-Ubik-Code)
 ![ubik4round](https://user-images.githubusercontent.com/48599437/104808529-2c772600-57e7-11eb-9341-dbaaf18798ad.png)
 
 # Ubik Code API
