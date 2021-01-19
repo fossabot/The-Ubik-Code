@@ -9,6 +9,7 @@ http://www.ubik.tk/
 ![license](https://img.shields.io/github/license/Alan-Kubiak-Zero-One/The-Ubik-Code)
 ![commit](https://img.shields.io/github/last-commit/Alan-Kubiak-Zero-One/The-Ubik-Code)
 ![release2](https://img.shields.io/github/release-date/Alan-Kubiak-Zero-One/The-Ubik-Code)
+![host](https://img.shields.io/website?down_color=red&down_message=offline&up_color=blue&up_message=online&url=http%3A%2F%2Fubik.tk%2F)
 ![ubik4round](https://user-images.githubusercontent.com/48599437/104808529-2c772600-57e7-11eb-9341-dbaaf18798ad.png)
 
 # Ubik Code API
